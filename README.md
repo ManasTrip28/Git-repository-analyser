@@ -12,18 +12,6 @@ With a clean, responsive UI, it’s perfect for developers who want to quickly g
 - AI-driven analysis with two modes: summary or detailed breakdown.
 - Modern, card-based UI with scrollable results and professional styling.
 
-## Project Structure
-
-repo-analyzer/
-├── static/              # CSS and static assets
-│   └── style.css
-├── templates/           # HTML templates
-│   └── index.html
-├── app.py               # Main Flask application
-├── github_utils.py      # GitHub API utilities
-├── ai_analyzer.py       # Gemini AI integration
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
 
 
 ## Prerequisites
